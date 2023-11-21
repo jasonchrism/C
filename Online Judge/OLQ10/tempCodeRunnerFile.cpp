@@ -1,0 +1,1 @@
+ binary(num / 2);

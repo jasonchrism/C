@@ -1,0 +1,5 @@
+2602#Jason CM#Marketing#3.2#Sales
+2603#Bijau#Akuntansi#3.5#Sales
+2604#Mika#Tataboga#3.7#Direktur
+2605#Dalkun#Fisika#3.6#Sales
+2606#Kang Pomed#Kimia#3.1#Direktur

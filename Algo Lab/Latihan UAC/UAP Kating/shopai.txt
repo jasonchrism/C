@@ -1,0 +1,7 @@
+TE-794-VH/Telephone/Houholds Appliances/20000/4
+RU-060-AW/Rubrick/Toys/25000/2
+MO-735-PP/Payung/Toys/150000/4
+CH-279-GW/Mouse/Utility/27000/6
+HE-774-CY/Headphone/Utility/30000/2
+PA-201-XB/Chair/Households Appliances/20500/5
+NE-535-LU/Nenek/Toys/25000/5

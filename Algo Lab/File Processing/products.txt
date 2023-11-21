@@ -1,0 +1,4 @@
+Baju#5000
+Sarung Wadimor#40000
+Jaket Peter#10000000
+Sepatu#700000
